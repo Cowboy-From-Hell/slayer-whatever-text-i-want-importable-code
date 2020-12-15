@@ -1,6 +1,6 @@
 (function() {
     const options = {
-        'text': prompt('Text:', 'Weee!'),
+        'text': prompt('Text:', 'Raining Blood!'),
         'size': 150,
         'weight': 800,
         'speed': 50
