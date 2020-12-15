@@ -3,7 +3,7 @@
         'text': prompt('Text:', 'Raining Blood!'),
         'size': 150,
         'weight': 800,
-        'speed': 50
+        'speed': 500
     };
 
     let elements = [];
